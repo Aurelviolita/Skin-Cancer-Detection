@@ -1,9 +1,3 @@
-Baik, saya sudah menyesuaikan **README.md** ini **langsung berdasarkan isi file `CNN_skincancer_FIX.ipynb`**, bukan versi generik. Struktur, istilah, dan alur mengikuti *pipeline* yang benar-benar ada di notebook (Kaggle setup, HAM10000, CNN, focal loss, fine-tuning, dan evaluasi).
-
-Silakan **copy–paste langsung** ke file `README.md` di repository GitHub kamu.
-
----
-
 # **Skin Cancer Classification using CNN**
 
 Proyek ini membangun model *Convolutional Neural Network (CNN)* untuk mengklasifikasikan jenis kanker kulit menggunakan dataset **HAM10000**. Implementasi dilakukan menggunakan **TensorFlow/Keras** dan dijalankan di lingkungan **Google Colab** dengan integrasi dataset dari **Kaggle**.
